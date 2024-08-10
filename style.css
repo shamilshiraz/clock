@@ -1,0 +1,11 @@
+*{
+    background-color: black;
+    color: rgb(2, 250, 31);
+}
+h1{
+    font-size: 100px;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 250px;
+    margin-left: 500px;
+}
